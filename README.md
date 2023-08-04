@@ -4,8 +4,8 @@
   一、因資安法及本局ISMS要求，所以要進行日誌的保存。<br>
   二、含application、secruity、system日誌的備份。<br>
   三、來源：%SystemRoot%\System32\winevt\Logs、目的：D:\EventLog_Backup。註：目前因為儲存空間都還夠，所以我是沒有把舊的刪除，都會保留下來<br>
-  四、![AP主機]()<br>
-        ![DB主機]()<br>
+  四、![AP主機](https://github.com/chiehpin0705/DigitalAffairs/blob/main/Log%E5%82%99%E4%BB%BD_2-54.png)<br>
+        ![DB主機](https://github.com/chiehpin0705/DigitalAffairs/blob/main/Log%E5%82%99%E4%BB%BD_4-42.png)<br>
 * ISMS-資料庫備份(每個月備份一次)<br>
   為避免系統資料庫異常，故進行資料庫備份。<br>
 * 憑證產製及申請(每年一次)<br>
