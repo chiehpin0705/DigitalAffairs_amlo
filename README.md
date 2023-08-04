@@ -1,4 +1,5 @@
 # [洗錢資恐風險評估系統(https://www.amlo.taichung.gov.tw/)](https://www.amlo.taichung.gov.tw/)
+* AP主機(xxx.xxx.2.54)、DB主機(xxx.xxx.4.42)
 * ISMS-日誌備份(每個月備份一次)<br>
   一、因資安法及本局ISMS要求，所以要進行日誌的保存。<br>
   二、含application、secruity、system日誌的備份。<br>
