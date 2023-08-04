@@ -9,8 +9,9 @@
 * ISMS-資料庫備份(每個月備份一次)<br>
   一、為避免系統資料庫異常，故進行資料庫備份。<br>
   二、[Microsoft參考文件](https://learn.microsoft.com/zh-tw/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver16)<br>
-  三、![DB主機:步驟1](https://github.com/chiehpin0705/DigitalAffairs/blob/main/DB%E5%82%99%E4%BB%BD_4-42_p1.png)
-      ![DB主機:步驟2](https://github.com/chiehpin0705/DigitalAffairs/blob/main/DB%E5%82%99%E4%BB%BD_4-42_p2.png)
+  三、![SSMS:步驟1](https://github.com/chiehpin0705/DigitalAffairs/blob/main/DB%E5%82%99%E4%BB%BD_4-42_p1.png)
+      ![SSMS:步驟2](https://github.com/chiehpin0705/DigitalAffairs/blob/main/DB%E5%82%99%E4%BB%BD_4-42_p2.png)
+  四、![DB主機]()
 * 憑證產製及申請(每年一次)<br>
   一、因Domain Name需配合憑證，且無廠商直接協助，故需自行產製並申請。<br>
   二、command line介面。
