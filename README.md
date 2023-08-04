@@ -35,6 +35,9 @@
   二、因為對廠商說法有疑慮，所以還沒全數套用。<br>
   三、加上使用的人少，難以發覺受影響的項目。
 * 廠商-汎宇電商 02-2785-8898<br>
-  一、專案經理   侯小姐 #662 kitty@universalec.com
-  二、系統分析師 陳先生 #220 kevin.chen@universalec.com
-  三、系統分析師 呂先生 #647 kitty@universalec.com
+  一、專案經理   侯小姐 #662 kitty@universalec.com<br>
+  二、系統分析師 陳先生 #220 kevin.chen@universalec.com<br>
+  三、系統分析師 呂先生 #647 kitty@universalec.com<br>
+  四、客服專線 客服人員 0800-588-889 cs@universalec.com<br>
+* 行政院洗錢防制辦公室 02-2322-2618<br>
+  一、諮詢研究員 張小姐 #204 ypchang@ey.gov.tw<br>
