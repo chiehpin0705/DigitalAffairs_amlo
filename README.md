@@ -46,3 +46,4 @@
   路徑：數OOO局共用區/11整合應用科/oo賓/
 
 * 連線 https://tcvc.taichung.gov.tw/
+  vSphereClient![vSphereClient](https://github.com/chiehpin0705/DigitalAffairs_amlo/blob/main/vSphereClient.png)
