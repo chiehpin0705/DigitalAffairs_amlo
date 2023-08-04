@@ -41,3 +41,6 @@
   四、客服專線 客服人員 0800-588-889 cs@universalec.com<br>
 * 行政院洗錢防制辦公室 02-2322-2618<br>
   一、諮詢研究員 張小姐 #204 ypchang@ey.gov.tw<br>
+
+* 詳細文件可至Nas https://xxx.xxx.1.34:5101/<br>
+  路徑：數OOO局共用區/11整合應用科/oo賓/
