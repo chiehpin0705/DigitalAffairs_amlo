@@ -44,3 +44,5 @@
 
 * 詳細文件可至Nas https://xxx.xxx.1.34:5101/<br>
   路徑：數OOO局共用區/11整合應用科/oo賓/
+
+* 連線 https://tcvc.taichung.gov.tw/
