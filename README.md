@@ -15,7 +15,7 @@
 * 憑證產製及申請(每年一次)<br>
   一、因Domain Name需配合憑證，且無廠商直接協助，故需自行產製並申請。<br>
   二、command line介面。<br>
-  三、[AP主機、DB主機的桌面，都有放廠商當初的手冊]()<br>
+  三、![AP主機、DB主機的桌面，都有放廠商當初的手冊](https://github.com/chiehpin0705/DigitalAffairs/blob/main/%E4%B8%BB%E6%A9%9F%E6%A1%8C%E9%9D%A2%E5%B0%B1%E6%9C%89%E6%96%87%E4%BB%B6.png)<br>
 * 弱點掃描修補<br>
   一、因為廠商直接協助，故需自行處理。<br>
   二、針對主機弱點需自己尋求解法; 針對網頁弱點則尋求廠商更版程式。 
