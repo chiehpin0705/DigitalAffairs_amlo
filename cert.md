@@ -26,7 +26,8 @@ https://gcp.nat.gov.tw/index.html<br>
 -步驟3:點選「TLS類憑證申請」<br>
 
 -步驟4:點選「發文申請」<br>
--步驟5:網站名稱(Domain Name)如：www.cht.com.tw請填下列兩者<br>
+-步驟5-1:填寫相關資訊<br>
+-步驟5-2:網站名稱(Domain Name)如：w ww.cht.com.tw請填下列兩者<br>
 https://www.amlo.taichung.gov.tw/<br>
 https://amlo.taichung.gov.tw/<br>
-
+-步驟5-3:上傳CSR檔<br>
