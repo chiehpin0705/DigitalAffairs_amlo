@@ -31,3 +31,9 @@ https://gcp.nat.gov.tw/index.html<br>
 https://www.amlo.taichung.gov.tw/<br>
 https://amlo.taichung.gov.tw/<br>
 -步驟5-3:上傳CSR檔<br>
+
+# 憑證安裝
+-步驟1:請至 GTLSCA 網站下載已經壓縮打包好的憑證串鏈檔案，下載網址為 https://gtlsca.nat.gov.tw/download/GTLSCA_All.zip<br>
+-步驟2:將 GTLSCA_All.zip 解壓縮，可以得到 「ROOTeCA_64.crt」、「eCA1_to_eCA2-New.crt」和「GTLSCA.crt」共3個檔案<br>
+-步驟3:將.keystore 檔、憑證請求檔(amlo.csr)、憑證回覆檔(向GCA申請，為xxx.cerl.)及3個下載檔案(共6個)，放至 C:\amlo\cert\ssl<br>
+
