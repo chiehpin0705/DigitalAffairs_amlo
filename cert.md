@@ -17,3 +17,16 @@ C:\amlo\cert\ssl\.keystore <br>
 C:\amlo\cert \ssl\amlo.csr<br>
 
 # 憑證申請
+-步驟1:到GCA網站<br>
+https://gcp.nat.gov.tw/index.html<br>
+
+-步驟2:點選「評證申請」<br>
+
+
+-步驟3:點選「TLS類憑證申請」<br>
+
+-步驟4:點選「發文申請」<br>
+-步驟5:網站名稱(Domain Name)如：www.cht.com.tw請填下列兩者<br>
+https://www.amlo.taichung.gov.tw/<br>
+https://amlo.taichung.gov.tw/<br>
+
