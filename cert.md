@@ -46,5 +46,7 @@ keytool -import -alias gtlsca -file C:\amlo\ssl\GTLSCA.crt –keystore  C:\amlo\
 -步驟5-4:匯入 SSL 伺服器應用軟體憑證<br>
 keytool –import –alias tomcat –file C:\amlo\cert\ssl\XXXXXXXXXXX.cer –keystore C:\amlo\ssl\.keystore<br>
 (其中XXXXXXXXXXX.cer為GCA回覆的檔案)
+-步驟6:將產生的.keystore 重新命名為server.keystore(名稱必須完全相同)
 
-# 憑證安裝
+# 憑證放置
+將server.keystore檔案放至C:\amlo\cert\ssl
