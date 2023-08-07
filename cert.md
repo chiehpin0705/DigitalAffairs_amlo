@@ -43,3 +43,6 @@ keytool -import -alias eca -file C:\amlo\cert\ssl\ROOTeCA_64.crt -keystore C:\am
 keytool -import -alias eca2 -file C:\amlo\ssl\eCA1_to_eCA2-New.crt -keystore C:\amlo\cert \ssl\.keystore<br>
 -步驟5-3:安裝GTLSCA憑證<br>
 keytool -import -alias gtlsca -file C:\amlo\ssl\GTLSCA.crt –keystore  C:\amlo\cert \ssl\.keystore<br>
+-步驟5-4:匯入 SSL 伺服器應用軟體憑證<br>
+keytool –import –alias tomcat –file C:\amlo\cert\ssl\XXXXXXXXXXX.cer –keystore C:\amlo\ssl\.keystore<br>
+(其中XXXXXXXXXXX.cer為GCA回覆的檔案)
