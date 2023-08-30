@@ -41,6 +41,12 @@
         還原後用戶端掃描設定:  洗錢AP<br>
         執行模式: 立即發送(不循還)<br>
         派送開關: 開<br>
+
+* 弱點修補<br>
+  一、因為這沒有一定，只能網路找解法，所以以下以案例做範例示範<br>
+  二、弱點：Tenable弱點編號 157288<br>
+      解法：https://www.google.com/search?q=TLS+Version+1.1+Protocol+Deprecated&rlz=1C1SQJL_zh-TWTW890TW890&oq=TLS+Version+1.1+Protocol+Deprecated&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzI4N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8<br>
+      
 * 廠商-汎宇電商 02-2785-8898<br>
   一、專案經理   侯小姐 #662 kitty@universalec.com<br>
   二、系統分析師 陳先生 #220 kevin.chen@universalec.com<br>
